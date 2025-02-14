@@ -1,0 +1,11 @@
+{
+  "name": "languagecheck",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "checklanguage.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "franc-min": "^6.1.0"
+  }
+}
